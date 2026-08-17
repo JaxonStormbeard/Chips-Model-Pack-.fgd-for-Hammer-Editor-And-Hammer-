@@ -1,1 +1,1 @@
-This only contains the .fgd file for garrys mod hammer editor and the open source version of my chips sweps mod im new too github so this may look trash
+The .fgd and lua, model, sound, and material files are in chipswep_opensource.zip/chip_sweps/chip_sweps/
