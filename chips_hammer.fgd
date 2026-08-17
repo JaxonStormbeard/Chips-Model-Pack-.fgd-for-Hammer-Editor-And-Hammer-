@@ -1,0 +1,19 @@
+// ============================================================================
+// Chips Model Pack Hammer .fgd Open Source
+// ============================================================================
+
+// credit TheDesertRoad, i kinda studied his .fgd and found out too use PointClass instead so huge shout out
+
+
+@include "base.fgd"
+@include "halflife2.fgd"
+
+@PointClass base(Weapon) studio("models/chipbags/lays/layschips.mdl") = snack_potatochips : "Potato Chips" [] // extreme healing potato chips, fun for anything.
+
+@PointClass base(Weapon) studio("models/chipbags/doritos/doritos.mdl") = snack_doritos : "Doritos" [] // healing doritos, fun for house maps
+
+@PointClass base(Weapon) studio("models/chipbags/takis/takis.mdl") = snack_talkis : "Takis" [] // damaging takis, fun for challenges
+
+@PointClass base(Weapon) studio("models/chipbags/takis/takis.mdl") = snack_takissafe : "Takis Safe" [] // safe takis non damaging
+
+
